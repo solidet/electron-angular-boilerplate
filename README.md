@@ -27,6 +27,7 @@ Electron is no longer a dev dependency and is expected to be installed globally:
 
 ```bash
 npm install -g electron
+npm install -g electron-prebuilt
 ```
 
 ## To Use
